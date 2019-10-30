@@ -9,7 +9,7 @@ void main()
 	printf("Enter two numbers");
 	scanf("%d%d",&a,&b);
 	printf("Calculator menu\n");
-	printf("Enter\n1.Addition\n2.Substraction\n3.Divison\n4.Product");
+	printf("Enter\n1.Add\n2.Sub\n3.Divison\n4.Product");
 	scanf("%d",&ch);
 	do
 	{
