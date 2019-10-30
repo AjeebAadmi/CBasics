@@ -10,6 +10,6 @@ void main()
 	printf("Talha");
 	x++;
 	}
-	while(x<5);
+	while(x<6);
 	getch();
 	}
